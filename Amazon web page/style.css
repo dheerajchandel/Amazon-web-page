@@ -6,7 +6,7 @@
 
 }
 body{
-    background-color: rgba(238, 182, 235, 0.973);
+        background: linear-gradient(to top,white,pink);
 }
 
 .top-nav{
